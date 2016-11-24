@@ -1,0 +1,15 @@
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\Entities\bin\Debug\Entities.dll
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\Entities\bin\Debug\Entities.pdb
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\Entities\obj\Debug\Entities.dll
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\Entities\obj\Debug\Entities.pdb
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\Entities\bin\Debug\Entities.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\Entities\bin\Debug\Entities.pdb
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\Entities\obj\Debug\Entities.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\Entities\obj\Debug\Entities.pdb
+C:\Users\YeisonJBF\Documents\CAPASWEB\Entities\bin\Debug\Entities.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\Entities\bin\Debug\Entities.pdb
+C:\Users\YeisonJBF\Documents\CAPASWEB\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\YeisonJBF\Documents\CAPASWEB\Entities\obj\Debug\Entities.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\Entities\obj\Debug\Entities.pdb

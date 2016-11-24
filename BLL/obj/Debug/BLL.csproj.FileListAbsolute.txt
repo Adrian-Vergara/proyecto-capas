@@ -1,0 +1,42 @@
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\bin\Debug\BLL.dll.config
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\bin\Debug\BLL.dll
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\bin\Debug\BLL.pdb
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\bin\Debug\DAL.dll
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\bin\Debug\Entities.dll
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\bin\Debug\EntityFramework.dll
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\bin\Debug\DAL.pdb
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\bin\Debug\Entities.pdb
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\bin\Debug\EntityFramework.xml
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\obj\Debug\BLL.dll
+C:\Users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\BLL\obj\Debug\BLL.pdb
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\bin\Debug\BLL.dll.config
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\bin\Debug\BLL.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\bin\Debug\BLL.pdb
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\bin\Debug\DAL.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\bin\Debug\Entities.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\bin\Debug\DAL.pdb
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\bin\Debug\Entities.pdb
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\obj\Debug\BLL.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\BLL\obj\Debug\BLL.pdb
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\bin\Debug\BLL.dll.config
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\bin\Debug\BLL.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\bin\Debug\BLL.pdb
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\bin\Debug\DAL.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\bin\Debug\Entities.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\bin\Debug\EntityFramework.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\bin\Debug\DAL.pdb
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\bin\Debug\Entities.pdb
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\bin\Debug\EntityFramework.xml
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\obj\Debug\BLL.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\BLL\obj\Debug\BLL.pdb

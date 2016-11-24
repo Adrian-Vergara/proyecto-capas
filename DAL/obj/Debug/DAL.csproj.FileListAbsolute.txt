@@ -1,0 +1,30 @@
+c:\users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\DAL\bin\Debug\DAL.dll.config
+c:\users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\DAL\bin\Debug\DAL.dll
+c:\users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\DAL\bin\Debug\DAL.pdb
+c:\users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\DAL\bin\Debug\EntityFramework.dll
+c:\users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\DAL\bin\Debug\EntityFramework.xml
+c:\users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\DAL\obj\Debug\DAL.dll
+c:\users\omiguelperez\documents\visual studio 2013\Projects\ProyectoCapas\DAL\obj\Debug\DAL.pdb
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\DAL\bin\Debug\DAL.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\DAL\bin\Debug\DAL.pdb
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\DAL\obj\Debug\DAL.dll
+C:\Users\Ricardo\Source\Repos\ProyectoCapas\DAL\obj\Debug\DAL.pdb
+C:\Users\YeisonJBF\Documents\CAPASWEB\DAL\bin\Debug\DAL.dll.config
+C:\Users\YeisonJBF\Documents\CAPASWEB\DAL\bin\Debug\DAL.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\DAL\bin\Debug\DAL.pdb
+C:\Users\YeisonJBF\Documents\CAPASWEB\DAL\bin\Debug\EntityFramework.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\DAL\bin\Debug\EntityFramework.xml
+C:\Users\YeisonJBF\Documents\CAPASWEB\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YeisonJBF\Documents\CAPASWEB\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\YeisonJBF\Documents\CAPASWEB\DAL\obj\Debug\DAL.dll
+C:\Users\YeisonJBF\Documents\CAPASWEB\DAL\obj\Debug\DAL.pdb
